@@ -1,0 +1,19 @@
+/* Profile.css */
+
+/* Style for the profile image */
+.profile-img {
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+    max-width: 200px;
+}
+
+/* Add margin to the profile picture card */
+.profile-img-card {
+    margin-bottom: 20px;
+}
+
+/* Adjust button width to 100% */
+button {
+    width: 100%;
+}

@@ -1,0 +1,14 @@
+body {
+  background-color: #f4f4f4;
+}
+.container {
+  padding-top: 20px;
+}
+.card {
+  border: none;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.card-title {
+  font-size: 1.25rem;
+  font-weight: 500;
+}

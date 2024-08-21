@@ -1,0 +1,22 @@
+/* Footer.css */
+
+/* Footer background color and text color */
+footer {
+    background-color: #343a40;
+    color: #ffffff;
+}
+
+/* Remove padding and margin from list group items */
+footer .list-group-item {
+    padding: 0.5rem 1rem;
+}
+
+/* Remove border from list group items */
+footer .list-group-item.bg-dark {
+    border: none;
+}
+
+/* Center the footer text */
+footer .text-center {
+    text-align: center;
+}

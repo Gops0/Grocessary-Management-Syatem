@@ -1,0 +1,11 @@
+{
+    "port":9999,
+    "host":"localhost",
+    "serverport": 3306,
+    "database": "projects1",
+    "user":"dmc",
+    "password":"dmc",
+    "baseurlmanager": "",
+    "secretkey" :"1~}6K$IfnBgO,r5",
+    "secretkeycustomer":"O94uolBKi6zLZ8FBx4JIkQAbgcx13D0j"
+}

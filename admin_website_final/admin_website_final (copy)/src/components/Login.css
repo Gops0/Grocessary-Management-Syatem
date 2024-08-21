@@ -1,0 +1,48 @@
+/* Login.css */
+
+.login-background {
+    background-image: url('/public/bg-img.jpeg'); /* Replace with your image path */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.glassmorphism-card {
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    max-width: 400px;
+    width: 100%;
+}
+
+.glassmorphism-card h2, .glassmorphism-card .form-label {
+    color: white; /* Optional: Adjust color to improve visibility */
+}
+
+.glassmorphism-card .form-control {
+    background: rgba(255, 255, 255, 0.3);
+    border: none;
+    color: white; /* Optional: Adjust color to improve visibility */
+}
+
+.glassmorphism-card .form-control::placeholder {
+    color: rgba(255, 255, 255, 0.7); /* Optional: Adjust color to improve visibility */
+}
+
+.glassmorphism-card .btn {
+    background-color: #002e7c;
+    border: none;
+    color: white;
+}
+
+.glassmorphism-card .btn:hover {
+    background-color: #5675ac;
+}
